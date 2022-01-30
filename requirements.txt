@@ -1,0 +1,4 @@
+rich
+qiskit
+azure
+azure-quantum

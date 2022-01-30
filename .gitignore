@@ -1,13 +1,15 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / Optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# C Extensions
 *.so
 
-# Distribution / packaging
+# Distribution / Packaging
 .Python
+.obsidian/
+.vscode/
 build/
 develop-eggs/
 dist/
@@ -33,11 +35,11 @@ MANIFEST
 *.manifest
 *.spec
 
-# Installer logs
+# Installer Logs
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit Test / Coverage Reports
 htmlcov/
 .tox/
 .nox/
@@ -68,7 +70,7 @@ instance/
 # Scrapy stuff:
 .scrapy
 
-# Sphinx documentation
+# Sphinx Documentation
 docs/_build/
 
 # PyBuilder
